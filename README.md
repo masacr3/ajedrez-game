@@ -1,1 +1,1 @@
-"# ajedrez-game" 
+# ajedrez-game 
